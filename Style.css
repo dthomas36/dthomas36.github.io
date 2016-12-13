@@ -1,0 +1,30 @@
+/* practicing styles */
+
+body {
+		background-color: black;
+		color: 	gold;
+}
+
+h1 {
+	font-family: Courier;
+	text-decoration: line-through;
+}
+
+h2 {
+	font-family: Courier;
+	text-decoration: line-through;
+}
+
+img {
+	width: 	30%;
+	height:	30%;
+}
+
+a {
+	text-decoration: none;
+}
+
+ul li{
+	list-style-type: none
+
+}
